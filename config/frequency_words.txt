@@ -300,7 +300,7 @@ mac
 ios
 
 ai
-!gai
+agi
 人工智能
 
 自动驾驶
